@@ -2,5 +2,5 @@
   from = "/menu/*"
   to = "https://widgets.dispenseapp.com"
   status = 200
-  force = false
+  force = true
   headers = {dispense-store-id = "075f447fd7e35cd9", dispense-menu-path = "/menu", x-forwarded-host = "yourgreenpackage.com" }
