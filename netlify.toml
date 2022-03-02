@@ -1,6 +1,6 @@
 [[redirects]]
   from = "/menu/*"
-  to = "https://widgets.dispenseapp.com"
+  to = "https://widgets.dispenseapp.com/:path"
   status = 200
   force = false
   query = {path = ":path"}
