@@ -3,4 +3,5 @@
   to = "https://widgets.dispenseapp.com"
   status = 200
   force = false
+  query = {path = ":path"}
   headers = {dispense-store-id = "075f447fd7e35cd9", dispense-menu-path = "/menu", x-forwarded-host = "yourgreenpackage.com" }
